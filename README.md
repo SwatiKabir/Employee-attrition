@@ -1,5 +1,4 @@
 # Employee-attrition
-# Sales-Data-Analysis
 ## OBJECTIVE:
 To Understand how employee attrition rate is increasing.
 ## PROBLEM STATEMENT: 
